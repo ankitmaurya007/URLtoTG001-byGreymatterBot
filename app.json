@@ -1,8 +1,8 @@
 {
     "name": "Simple Video Uploader",
     "description": "Simple Video Uploader",
-    "repository": "https://github.com/prxpostern/prxvideoleecher001",
-    "success_url": "https://t.me/ali110ali",
+    "repository": "https://github.com/GreyMatter658/URLtoTG001",
+    "success_url": "https://t.me/GreyMatter_bots",
     "stack": "heroku-20",
     "env": {
         "BOT_TOKEN": {
