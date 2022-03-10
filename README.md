@@ -31,4 +31,4 @@ A Simple Telegram Bot to Upload Files From **Direct Links** and **Google Drive L
 [![Deploy To Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/GreyMatter658/URLtoTG001&envs=API_ID,API_HASH,BOT_TOKEN)
 
 
-forked from https://github.com/GreyMatter658/URLtoTG001
+ORIGINAL REPO :- https://github.com/GreyMatter658/URLtoTG001
